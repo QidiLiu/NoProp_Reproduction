@@ -4,7 +4,7 @@
 
 It offered a new perspective on the application of denoising deep learning pattern and, by enabling each block to be trained independently and in a distributed manner, provides more possibilities for balancing training speed and memory usage.
 
-To enhance code readability and modularity, this project uses dedicated Git branches for each major component:
+To improve readability and modularity, this project uses separate Git branches for each major component:
 
 - **main**: Overview of this repository.
 - [**classify-mnist**](https://github.com/QidiLiu/NoProp_Reproduction/tree/classify-mnist): The most basic reproduction of NoProp.
